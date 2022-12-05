@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 13 Nov 2022 17:16:14 at https://spabelles.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://spabelles.com/ -O1 "C:\Users\RAJAT SINGH\OneDrive\Desktop\Internship myknot\Day22\Web107\Site107" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:23:01	Error: 	"Not Found" (404) at link https://spabelles.com/contactus.php (from https://spabelles.com/terms-of-service)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 48 seconds : 168 links scanned, 166 files written (147430350 bytes overall) [132122939 bytes received at 323830 bytes/sec], 21479396 bytes transferred using HTTP compression in 64 files, ratio 28%, 2.5 requests per connection
+(1 errors, 0 warnings, 0 messages)
